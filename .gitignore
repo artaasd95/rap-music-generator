@@ -204,5 +204,5 @@ pass
 *.txt
 *.log
 *.safetensors
-
+/results
 api_keys.py
