@@ -206,3 +206,5 @@ pass
 *.safetensors
 /results
 api_keys.py
+*.pt
+*.bin
